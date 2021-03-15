@@ -1,0 +1,8 @@
+<!--?xml version="1.0" standalone="no"?-->
+<svg width="256" height="256" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FF3333" d="M0,0L256,0L256,64L96,64L96,256L160,256L160,64L0,64Z" class="tFXIciYZ_0"></path>
+    <path stroke="white" stroke-width="8" fill="none" d="m 128,28 l 0,256" class="tFXIciYZ_1"></path>
+    <path stroke="white" stroke-width="8" fill="none" d="m 128,32 l -128,0" class="tFXIciYZ_2"></path>
+    <path stroke="white" stroke-width="8" fill="none" d="m 128,32 l 128,0" class="tFXIciYZ_3"></path>
+    <style data-made-with="vivus-instant">.tFXIciYZ_0{stroke-dasharray:1152 1154;stroke-dashoffset:1153;animation:tFXIciYZ_draw 2000ms ease 0ms forwards;}.tFXIciYZ_1{stroke-dasharray:256 258;stroke-dashoffset:257;animation:tFXIciYZ_draw 2000ms ease 0ms forwards;}.tFXIciYZ_2{stroke-dasharray:128 130;stroke-dashoffset:129;animation:tFXIciYZ_draw 2000ms ease 0ms forwards;}.tFXIciYZ_3{stroke-dasharray:128 130;stroke-dashoffset:129;animation:tFXIciYZ_draw 2000ms ease 0ms forwards;}@keyframes tFXIciYZ_draw{100%{stroke-dashoffset:0;}}@keyframes tFXIciYZ_fade{0%{stroke-opacity:1;}91.66666666666667%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style>
+</svg>
