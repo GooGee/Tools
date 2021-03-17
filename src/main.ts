@@ -5,6 +5,8 @@ import router from './router'
 import './assets/css/bootstrap.min.css'
 import './assets/css/style.css'
 
+import 'noty/lib/noty.css'
+
 createApp(App)
     .use(router)
     .mount('#app')
