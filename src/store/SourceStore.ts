@@ -1,3 +1,4 @@
+import * as toast from '@/helper/toast'
 import Source from '@/model/Source'
 import MiniSearch from 'minisearch'
 import { ref } from 'vue'
@@ -27,6 +28,9 @@ RequestStore.getSource()
         ms.addAll(data.toolxx)
         state.source = data
         ready.value = true
+    })
+    .catch(error => {
+        toast.error(error.message)
     })
 
 function filter(text: string) {
